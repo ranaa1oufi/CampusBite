@@ -46,8 +46,48 @@ CampusBite
 
 ## 📸 User Interface
 
-Screenshots of the application are available in the **screenshots** folder.
+### Home Page
 
+<img src="screenshots/Home-Page.jpg" width="700">
+### Login Page
+
+<img src="screenshots/Login-page.jpg" width="700">
+
+### Registration
+
+<img src="screenshots/Registration-page.jpg" width="700">
+
+### Menu Page
+
+<img src="screenshots/Menu-Page.jpg" width="700">
+
+### Search Page
+
+<img src="screenshots/Search-page.jpg" width="700">
+
+### Basket Page
+
+<img src="screenshots/Basket-page.jpg" width="700">
+
+### Payment Page
+
+<img src="screenshots/Payment-Page.jpg" width="700">
+
+### Confirm Payment
+
+<img src="screenshots/Confirm-Payment-page.jpg" width="700">
+
+### Orders Page
+
+<img src="screenshots/Orders-page.jpg" width="700">
+
+### Review Page
+
+<img src="screenshots/Review-page.jpg" width="700">
+
+### Account Page
+
+<img src="screenshots/Account-page.jpg" width="700">
 ---
 
 ## 📐 System Design
