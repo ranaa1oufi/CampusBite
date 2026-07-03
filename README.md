@@ -1,4 +1,10 @@
-# 🍽️ CampusBite
+# CampusBite
+
+![Java](https://img.shields.io/badge/Java-17-orange)
+![Maven](https://img.shields.io/badge/Maven-Build-blue)
+![OOP](https://img.shields.io/badge/OOP-Design-success)
+![Team Project](https://img.shields.io/badge/Team-Project-purple)
+![Course](https://img.shields.io/badge/Course-CPIT251-lightgrey)
 
 CampusBite is a Java-based food ordering system designed to simplify the ordering experience for university students. The system allows users to browse campus restaurants, place orders, and pick up their meals without waiting in long queues.
 
