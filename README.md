@@ -57,7 +57,6 @@ The **diagrams** folder includes:
 - Use Case Diagram
 - Class Diagram
 - Sequence Diagrams
-- Activity Diagram
 - Architecture Diagram
 
 ---
