@@ -1,0 +1,24 @@
+Barn's
+- Espresso, 9 SAR, 5
+- Latte, 11 SAR, 4
+- Mocha, 15 SAR, 3
+- Donut Clair, 7 SAR, 2
+- Muffin, 8 SAR, 3
+- Triple Cheese Sandwich, 16 SAR, 2
+
+Morning Duck
+- Tea, 3 SAR, 10
+- Coffee of the Day, 6 SAR, 6
+- Water, 1 SAR, 12
+- Cheese Jam Sandwich, 6 SAR, 4
+- Spicy Tuna Sandwich, 13 SAR, 3
+- Egg Sandwich, 6 SAR, 5
+- Cookies, 10 SAR, 4
+
+Taste
+- Chocolate Pudding, 11 SAR, 3
+- Zaatar Croissant, 8 SAR, 4
+- Vegetable Pizza, 10 SAR, 3
+- Labneh Zaatar Manakeesh, 11 SAR, 2
+- Tea, 2 SAR, 8
+- Soda Drink, 4 SAR, 6
