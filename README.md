@@ -55,6 +55,7 @@ CampusBite
 ### Home Page
 
 <img src="screenshots/Home-Page.jpg" width="700">
+
 ### Login Page
 
 <img src="screenshots/Login-page.jpg" width="700">
